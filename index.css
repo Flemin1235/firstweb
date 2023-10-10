@@ -1,0 +1,145 @@
+body{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(https://e0.pxfuel.com/wallpapers/846/344/desktop-wallpaper-portfolio.jpg);
+    background-size: contain;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+h1{
+    margin: 50px;
+}
+
+.About{
+    font-weight: 700;
+    text-align: center;
+    background: linear-gradient(90deg,red,yellow);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    border-radius: 100px;
+    padding:10px ;
+    transition-duration: ease 2s;
+    
+}
+
+.About:hover{
+    transform: translateY(-10px);
+}
+
+
+.Interests{
+    font-weight: 700;
+    background:linear-gradient(blue,lime);
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    margin: 20px;
+    border-radius: 100px;
+    padding:10px ;
+    transition-duration: ease 2s;
+
+}
+
+
+
+.Interests:hover{
+    transform: translateY(-10px);
+}
+
+
+.Hobbies{
+    font-weight: 700;
+    background:linear-gradient(darkviolet,crimson);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    margin: 20px;
+    border-radius: 100px;
+    padding:10px ;
+    transition-duration: ease 2s;
+
+
+}
+
+.hobimg{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Hobbies:hover{
+    transform: translateY(-10px);
+}
+
+.Networks{
+    background:linear-gradient(lightblue,blue);
+    display: flex;
+    flex-direction: column;
+    align-items: center ;
+    margin: 20px;
+    border-radius: 100px;
+    padding:10px ;
+    transition-duration: ease 2s;
+
+}
+
+.Networks:hover{
+    transform: translateY(-10px);
+}
+
+
+
+
+.cric{
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+}
+
+
+.chess{
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+}
+
+
+.read{
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+}
+
+
+.insta{
+    width: 50px;
+    padding: 20px;
+}
+
+
+.fb{
+    width: 50px;
+    padding: 20px;
+}
+
+
+.linkedin{
+    width: 50px;
+    padding: 20px;
+}
+
+.git{
+    width: 50px;
+    padding: 20px;
+
+}
+
+.twitter{
+    width: 50px;
+    padding: 20px;
+}
