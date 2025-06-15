@@ -117,6 +117,7 @@ h1{
 
 
 .insta{
+    opacity: 0.2;
     width: 50px;
     padding: 20px;
 }
